@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+          "title": "Bole Ethiopian Restaurant",
+        "location": [
+           
+            " 915 NE Alberta St",
+            "Portland, OR 97211"
+        ],
+        "contactno": "(503) 719-6200",
+        
+        "mapdata": [
+            45.5594094722043, -122.65629202883572
+        ]
+    }
+
+    
+]
